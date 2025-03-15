@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DrNogNog This is my pseudonym.
-
-- 👀 I’m interested in creating.
+- 👀 Let's Create.
 - 🌱 I’m currently learning robotics.
 - 💞️ I’m looking to collaborate on useful code.
 - 📫 How to reach me gordoncs@outlook.com
